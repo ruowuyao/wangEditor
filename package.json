@@ -1,7 +1,7 @@
 {
-  "name": "wangeditor",
+  "name": "wangeditor-crm",
   "version": "4.7.9",
-  "description": "wangEditor - 轻量级 web 富文本编辑器，配置方便，使用简单，开源免费",
+  "description": "wangEditor-crm是在 wangEditor的基础上稍微修改后的自用的；wangeditor- 轻量级 web 富文本编辑器，配置方便，使用简单，开源免费",
   "homepage": "http://www.wangeditor.com/",
   "keywords": [
     "wangEditor",
